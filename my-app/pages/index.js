@@ -350,14 +350,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Manisha's DAO</title>
+        <title>Manisha&apos;s DAO</title>
         <meta name="description" content="Manisha's DAO" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Manisha's DAO</h1>
+          <h1 className={styles.title}>Welcome to Manisha&apos;s DAO</h1>
           <div className={styles.description}>
             Your CryptoDevs Balance: {nftBalance}
             <br/>
